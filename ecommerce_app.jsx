@@ -104,15 +104,3 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
-```
-
----
-
-⚡ Steps to use this source code:
-1. Create a new folder `trendtech` and add these files.
-2. Run `npm install`.
-3. Run `npm run dev` → your app will start locally.
-4. Push this to GitHub.
-5. Import repo into **Vercel** → Deploy → Live site 🎉.
-
-Chetu, do you want me to **prepare this as a ZIP file** so you can directly download and upload to GitHub? 🚀
